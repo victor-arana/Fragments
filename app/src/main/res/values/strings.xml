@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Fragments</string>
+    <string name="show_details_button_text">Search</string>
 </resources>
